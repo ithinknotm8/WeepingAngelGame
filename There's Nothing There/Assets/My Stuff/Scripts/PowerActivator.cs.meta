@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4af10e900f4c3f145b5fa54e1f8e60a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lightsON: {fileID: 2100000, guid: bc9fc69a1c4243343bff25dd7532a1b0, type: 2}
+  - lightsOFF: {fileID: 2100000, guid: 03f6be1764ac1eb4782330625ff6e188, type: 2}
+  - currLights: {fileID: 2100000, guid: 367e87b4150214b41963e70ca94a8f27, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
